@@ -1,0 +1,12 @@
+.Title {
+  padding-left: 40px;
+}
+.TransactionContainer {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 40px;
+}
+
+.TransactionContainer p {
+  font-size: 18px;
+}

@@ -1,0 +1,13 @@
+.NavContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.NavContainer ul {
+  list-style: none;
+  display: flex;
+}
+.NavContainer ul li {
+  margin-right: 100px;
+}
