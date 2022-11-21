@@ -1,0 +1,17 @@
+.AddressContainer {
+  margin-left: 40px;
+  margin-top: 50px;
+}
+.AddressContainer ul {
+  margin-left: 0px;
+  font-size: 18px;
+  list-style: none;
+}
+
+.AddressContainer ul li {
+  margin-top: 5px;
+}
+.address {
+  color: blue;
+  width: 200px;
+}

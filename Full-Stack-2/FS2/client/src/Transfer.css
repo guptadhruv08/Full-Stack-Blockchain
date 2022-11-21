@@ -1,0 +1,29 @@
+.TransferContainer {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 40px;
+  padding-left: 40px;
+}
+.TransferContainer p {
+  font-size: 18px;
+}
+.TransferContainer label {
+  font-size: 18px;
+}
+.TransferContainer input {
+  margin-left: 20px;
+  width: 200px;
+  height: 20px;
+}
+.TransferContainer button {
+  width: 120px;
+  height: 30px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.RecieptContainer {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 40px;
+  padding-left: 40px;
+}
